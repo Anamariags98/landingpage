@@ -1,0 +1,55 @@
+body{
+	text-align: center;
+	font-family: Verdana;
+	background-image: url(imagens/desktop.jpg);
+	background-size: cover;
+	color:saddlebrown;
+
+}
+
+
+h1{
+	font-size: 70px;
+	padding-top: 250px;
+	text-shadow: 2px 2px 2px grey;
+	margin-bottom: 15px;
+
+}
+
+p{
+	font-size: 25px;
+	color:indianred;
+}
+
+.botao{
+	text-decoration: none;
+	background-color: saddlebrown;
+	color: white;
+	font-size: 20px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;
+
+}
+
+.botao:hover{
+	background-color: rgba(204,0,0,0.7);
+
+}
+
+.lista{
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 150px;
+
+}
+
+.lista li{
+	display: inline;
+
+}
+
+.lista a {
+	color:indianred ;
+	font-size: 25px;
+
+}
