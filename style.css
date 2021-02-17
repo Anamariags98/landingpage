@@ -9,7 +9,7 @@ body{
 
 
 h1{
-	font-size: 70px;
+	font-size: 60px;
 	padding-top: 250px;
 	text-shadow: 2px 2px 2px grey;
 	margin-bottom: 15px;
@@ -17,8 +17,10 @@ h1{
 }
 
 p{
-	font-size: 25px;
+	font-size: 20px;
 	color:indianred;
+	margin-bottom: 35px;
+
 }
 
 .botao{
